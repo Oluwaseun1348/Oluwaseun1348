@@ -1,4 +1,4 @@
-[![MasterHead](https://www.freepik.com/premium-ai-image/3d-cartoon-illustration-data-scientist-analyzing-big-data-digital-transformation-playful-re_200111282.htm)](https://rishavchanda.io)
+[![MasterHead](https://github.com/Oluwaseun1348/Oluwaseun1348/blob/main/images%20(1).jpeg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Oluwaseun</h1>
 <h3 align="center">A passionate data analyst with a strong interest in turning data into clear, actionable insights</h3>
 
