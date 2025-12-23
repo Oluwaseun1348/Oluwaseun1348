@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Oluwaseun1348/Oluwaseun1348/blob/main/images%20(1).jpeg)](https://rishavchanda.io)
+[![MasterHead](https://github.com/Oluwaseun1348/Oluwaseun1348/blob/main/Take%20a%20look%20at%20my%20Canva%20design!.png)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm Oluwaseun</h1>
