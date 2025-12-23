@@ -1,4 +1,5 @@
-<img width="1365" height="603" alt="{98841F83-D5EC-452D-B650-F883C2D3549D}" src="https://github.com/user-attachments/assets/14287274-ffcd-4d6d-9749-8fb3d6e49695" />
+[![MasterHead](https://github.com/Oluwaseun1348/Oluwaseun1348/blob/main/images%20(1).jpeg)](https://rishavchanda.io)
+
 
 <h1 align="center">Hi 👋, I'm Oluwaseun</h1>
 <h3 align="center">A passionate data analyst with a strong interest in turning data into clear, actionable insights</h3>
