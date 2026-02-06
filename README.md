@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **shotayooluwaseun123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a2JdakProrkIjd6ardHNaw5sKI120P5B/view?usp=drivesdk](https://drive.google.com/file/d/1a2JdakProrkIjd6ardHNaw5sKI120P5B/view?usp=drivesdk)
+- 📄 Click [here](https://drive.google.com/file/d/1BHDqFp8W3fkE36ZLwN8UOA11_7mAkxDR/view?usp=drivesdk) to know about my experiences
 
 - ⚡ Fun fact **I think I enjoy talking**
 
